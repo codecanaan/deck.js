@@ -1,0 +1,19 @@
+.justfont .slide h1,
+.justfont .slide h2,
+.justfont .slide h3,
+.justfont .slide h4,
+.justfont .slide h5,
+.justfont .slide h6 {
+	font-weight: normal;
+}
+
+.slide h1 small {
+    display: block;
+    font-size:50%;
+}
+
+.slide pre {
+	font-family: 'Droid Sans Mono', monospace;
+	font-size: 80%;
+}
+
